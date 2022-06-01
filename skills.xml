@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding "UTF-8"?>
+<Skills_to_learn>
+	<Skill>Basic theory, SDLC, STLC</Skill>
+	<Skill>Client-server architecture/Skill>
+	<Skill>HTTP-requests methods</Skill>
+	<Skill>HTTP responses codes</Skill>
+	<Skill>HTTP requests and responses strusture</Skill>
+	<Skill>JSON and XML structures</Skill>
+	<Skill>API testing with Postman</Skill>
+	<Skill>Reading of logs from external server</Skill>
+	<Skill>Web-traffic sniffing with Charles and Fiddler</Skill>
+	<Skill>DevTools</Skill>
+	<Skill>VPN</Skill>
+	<Skill>Mobile testing</Skill>
+	<Skill>iOS, Android, guidelines</Skill>
+	<Skill>ios application assebly with XCode</Skill>
+	<Skill>Android application assembly with Androi Studio</Skill>
+	<Skill>ADB</Skill>
+	<Skill>Proxy and VPN adjustment on iOS and Android</Skill>
+	<Skill>Terminal (Linux)</Skill>
+	<Skill>Bash scripts and automatization</Skill>
+	<Skill>Remote servers access</Skill>
+	<Skill>SQL basics</Skill>
+	<Skill>PostgreSQL</Skill>
+	<Skill>Redis</Skill>
+	<Skill>Stress testing in Jmeter</Skill>
+	<Skill>Scrum methodology</Skill>
+</Skills_to_learn>
