@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding "UTF-8"?>
+<Personal>
+	<Full_name>
+		<First_name>Денис</First_name>
+		<Second_name>Прокофьев</Second_name>
+		<Patronymic>Петрович</Patronymic>
+	</Full_name>
+	<Age>32</Age>
+	<Pets_quantity null="true"/>
+	<Desirable_salary>$1500<Desirable_salary>
+</Personal>
