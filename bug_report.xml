@@ -19,6 +19,6 @@
     <3)> Filled out all the user information fields"</3)>
     <4)> Clicked on the ‘Save’ button"</4)>
     <5)> Seen an error page</5>
-</Steps to Reproduce>
-   <Expected Result>On clicking the SAVE button, you should be prompted to a successful message “New User has been created successfully"</Expected Result>   
+  </Steps to Reproduce>
+  <Expected Result>On clicking the SAVE button, you should be prompted to a successful message “New User has been created successfully"</Expected Result>   
 </Bug report>
